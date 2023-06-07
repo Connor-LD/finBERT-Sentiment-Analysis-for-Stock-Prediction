@@ -1,4 +1,4 @@
-# Hello, NLP World:  Stock Prediction with Sentiment Analysis
+# finBERT Sentiment Analysis for Stock Prediction
 
 ## Project/Goals
 Explore the effectiveness of finBERT by quantifying sentiment scores for news headlines.  Subsequently, these scores are used to  predict changes in the stock market by comparing daily aggregated sentiment of the top S&P500 companies (representing ~40% of the stocks value)
